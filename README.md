@@ -38,6 +38,7 @@ Alle unter Anwendungen->Entwicklung zufinden.
 - mkdir {Name} - make directory, legt ein Verzeichnis an
 - man {Befehl} - Hilfe Seite zum Befehl (ggf. auch {Befehl} --help)
 - gcc - C-Compiler
+[Cheatsheet der FU Berlin](http://www.mi.fu-berlin.de/wiki/pub/Main/BrueckenkursInformatik2005/Kommandozeilenspicker.pdf)
 
 ### Visual Studio Code
 Haben Sie in den Ziel ordner navigiert, können Sie mit "code ." den Ordner als Workspace öffnen.
