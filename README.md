@@ -15,8 +15,8 @@ Abgenommene Aufgaben werden auf dem Testatbogen abgezeichnet.
 
 ## Neuerungen zum WS 2019/20
 ### Speichern von Daten
-Das Home-Laufwerk wird nicht mehr gesichert - nach dem Abmelden sind diese Daten weg!
-Verwenden Sie den ADS1-Ordner in Ihrem Home-Verzeichnis.
+Das Home-Laufwerk wird nicht mehr gesichert - nach dem Abmelden sind diese Daten weg! 
+Verwenden Sie das Netzlaufwerk "Home".
 
 ### Nur Linux
 Auf den Labor-PCs wird nurnoch Linux bereitgestellt.  
