@@ -15,7 +15,7 @@ Die Abgabe erfolgt im Moodle-Kurs.
 ## Modul-Aufgaben
 Ziel dieser Aufgaben ist es, dass Sie eine Bibliothek erstellen und auch verwenden.
 
-Um zu kontrollieren, ob Sie auch tatsächlich eine Bibliothek erstellen und in Ihrem Programm verwenden, müssen Sie an dieser Stelle ein Makefile zusätzlich zu den header- und source-Dateien abgeben. Das Make-System ist der kleinste gemeinsamme Nenner einiger Entwicklungs-Tools und IDEs (Qt, CMake, ...).
+Um zu kontrollieren, ob Sie auch tatsächlich eine Bibliothek erstellen und in Ihrem Programm verwenden, müssen Sie an dieser Stelle ein Makefile zusätzlich zu den header- und source-Dateien abgeben. Das Make-System ist der kleinste gemeinsamme Nenner einiger Entwicklungs-Tools und IDEs.
 
 Ein minimalistisches Beispiel und weiterleitung zu einem Tutorial finden Sie unter [Anleitungen, etc](#make-system)
 
