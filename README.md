@@ -36,8 +36,8 @@ Für CodeBlocks gibt es ein Tool, dass ein Makefile aus einem CodeBlocks-Projekt
 ## Make-System
 Ein Makefile enthält alle Informationen/Bauanweisungen für ein Programm. Die Datei trägt in der Regel den Namen "Makefile", ohne Dateiendung.
 
-|CC | C-Compiler-Aufruf |
-|CFLAGS | Compiler-Optionen |
+| CC | C-Compiler-Aufruf |
+| CFLAGS | Compiler-Optionen |
 
 ``` Makefile
 CC= gcc
