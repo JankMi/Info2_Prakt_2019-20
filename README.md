@@ -26,7 +26,7 @@ WSL (Windows-Subsystem for Linux) ist eine Möglichkeit Linux unter Windows 10 z
 ### Windows
 Hier gibt es neben WSL noch mehrere Möglichkeiten, cygwin, msys, ....
 Die Einfachste ist vermutlich die Installation über ["chocholatey"](https://chocolatey.org/), einem Paket-Management-System für Windows.
-[Anleitung zur Installation mit Chocholatey][#make-mit-chocholatey-installieren)
+[Anleitung zur Installation mit Chocholatey](#make-mit-chocholatey-installieren)
 
 ### CodeBlocks
 Für CodeBlocks gibt es ein Tool, dass ein Makefile aus einem CodeBlocks-Projekt erstellen kann - [cbp2make](https://sourceforge.net/p/cbp2make/wiki/Home/).
